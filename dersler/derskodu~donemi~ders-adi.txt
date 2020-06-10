@@ -1,0 +1,35 @@
+﻿UATA1001~1~Atatürk Ilkeleri ve Inkilap Tarihi - I
+UTÜR1001~1~Türk Dili - I
+UYDI1001~1~Ingilizce - I
+YBIL1011~1~Algoritma Ve Programlamaya Giris
+YELT1001~1~Temel Elektronik
+YFIZ1009~1~Teknolojinin Bilimsel Ilkeleri
+YMAT1021~1~Istatistik
+YMAT1053~1~Matematik - I
+YSOS1001~1~Davranis Bilimleri
+ADD1001~1~Alandisi Secimlik Ders - 1B[1]
+ASD1001~1~Alanici Secimlik Ders - 1A[1]
+UATA1002~2~Atatürk Ilkeleri ve Inkilap Tarihi - II
+UTÜR1002~2~Türk Dili - II
+UYDI1002~2~Ingilizce - II
+YBIL1012~2~Veri Yapilari Ve Programlama
+YBIL1016~2~Veri Tabani Yonetim Sistemleri I
+YBIL1018~2~Bilgisayar Donanimi
+YBIL1036~2~Nümerik Analiz
+YMAT1054~2~Matematik - II
+ADD1002~2~Alandisi Secimlik Ders - 2B - I[1]
+ADD1004~2~Alandisi Secimlik Ders - 2B - II[1]
+YBIL2011~3~Gorsel Programlama I
+YBIL2013~3~Internet Programciligi I
+YBIL2015~3~Veri Tabani Yonetim Sistemleri II
+YBIL2019~3~Bilgisayar Ag Sistemleri
+YBIL2035~3~Isletim Sistemleri
+YBIL2043~3~Bilisimde Proje Yonetimi
+ADD2001~3~Alandisi Secimlik Ders - 3B[1]
+AID2001~3~Alanici Secimlik Ders - 1A[1]
+SMYO2040~4~Staj (30 Is Günü)
+YBIL2014~4~Internet Programciligi II
+YBIL2038~4~Gorüntü Isleme
+YBIL2078~4~Sistem Analizi Ve Tasarimi
+ADD2002~4~Alandisi Secimlik Ders - 4B[1]
+AID2002~4~Alanici Secimlik Ders - 4A[2]
